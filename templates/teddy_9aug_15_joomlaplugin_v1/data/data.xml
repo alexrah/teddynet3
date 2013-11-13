@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="2" title="Home" alias="article" path="/home" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 50px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" >
+        <p style="text-align: center;"><img width="591" height="391" alt="" class="art-lightbox" src="images/template-content/Web-ecc.png"><br></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="2" category="2" title="New Page" alias="article-1" path="/chi-siamo" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-right-style:solid;border-left-style:solid;border-right-width:0px;border-left-width:0px;border-right-color:#CFD8E2;border-left-color:#CFD8E2; border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: justify; line-height: 1;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; letter-spacing: 1px; font-size: 22px;"><b><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif;">Teddynet</span></b> nasce con l'obiettivo di fornire ai clienti un vasto ventaglio di servizi e strumenti per affrontare e superare con successo, le sfide poste da una tecnologia in continua evoluzione. Siti internet, grafica personalizzata e sistemi per la sicurezza informatica sono alcuni dei nostri punti di forza per entrare nelle realtà aziendali come un riferimento fermo e certo.</span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-top: 0px;padding-right: 25px;padding-bottom: 0px;padding-left: 0px; width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">CORTESIA</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">Riponiamo sempre la massima attenzione nei rapporti col cliente stesso in modo da offrire un'interfaccia umana ad una tecnologia ancora considerata fredda e distante.</span><br></p>
+    </div><div class="art-layout-cell" style="border-left-style:solid;border-left-width:0px;border-left-color:#CFD8E2; padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 25px; width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><span style="color: rgb(93, 68, 43); text-align: right; font-size: 30px; font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-style: normal; font-weight: bold;">COMPETENZA</span><br><span style="font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px; color: #F7931E; text-align: justify;">Seguiamo da vicino le innovazioni del mercato e degli strumenti da questo offerti in modo da fornire e poter sfruttare sempre lo strumento migliore per risolvere i problemi.</span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-top: 10px;margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-top-style:solid;border-top-width:0px;border-top-color:#CFD8E2; border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: justify; line-height: 1.1;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">CAPACITÁ DI ADATTAMENTO</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">La nascita di nuovi strumenti e nuovi settori è per noi uno stimolo costante a mantenere persone e prodotti sempre aggiornati. Per questo motivo i servizi offerti non sono soggetti alla rigidità di un listino preconfezionato ma si adattano a coprire e soddisfare tutte le esigenze del cliente.</span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-top: 10px;margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: justify; line-height: 1.1;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">TEMPESTIVITÁ</span>&nbsp;<br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">La possibilità e la capacità di utilizzare l'alta tecnologia dell'informazione ci consente di fornire tempestivamente servizi di assistenza e consulenza anche in punti geograficamente distanti.</span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="3" category="2" title="New Page" alias="article-2" path="/siti-web" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 0px;margin-right: 40px;margin-left: 40px;">
+<div class="art-content-layout" style="border-spacing: 25px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding: 0px; vertical-align: top; width:33%" >
+        <p style="text-align: center;"><img width="110" height="113" alt="" class="art-lightbox" src="images/template-content/Statici.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 28px; font-weight: bold;">STATICI</span></p><p style="text-align: justify; line-height: 1.1;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">Sito semplice con contenuti navigabili e ben visibili. Ideale per piccole imprese che vogliono avere una propria immagine anche sul web.</span><br></p>
+    </div><div class="art-layout-cell" style="width:34%" >
+        <p style="text-align: center;"><img width="110" height="113" alt="" class="art-lightbox" src="images/template-content/Dinamici.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 28px; font-weight: bold;">DINAMICI</span></p><p style="text-align: justify; line-height: 1.1;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">Sito di più pagine con una maggiore interattività e la possibilità di creare newsletter, aree riservate, blog, ecc. Ideale per medie, grandi imprese, che vogliono dare maggior risalto e visibilità alla propria attività anche sul web.</span></p>
+    </div><div class="art-layout-cell" style="width:33%" >
+        <p style="text-align: center;"><img width="110" height="113" alt="" class="art-lightbox" src="images/template-content/E-commerce.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 28px; font-weight: bold;">E-COMMERCE</span></p><p style="text-align: justify; line-height: 1.1;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 17px;">Sito in continuo aggiornamento dedicato alla vendita Online dei propri prodotti. Ideale per le aziende che vogliono ampliare il proprio mercato sia a livello nazionale che internazionale sfruttando la vasta visibilità del mondo web.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><img width="75" height="75" alt="" class="art-lightbox" src="images/template-content/dispositivi-mobili.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 2px;">DISPOSITIVI MOBILI</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 14px;">Possibilità di visualizzazione ed interazione su tutti i dispositivi mobili, smartphone e tablet.</span></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><img width="75" height="75" alt="" class="art-lightbox" src="images/template-content/Seo.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 3px;">S.E.O.</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 14px;">Possibilità su richiesta di aumentare la visualizzazione del proprio sito web sui maggiori motori di ricerca.</span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><img width="75" height="75" alt="" class="art-lightbox" src="images/template-content/Domini.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 3px;">DOMINI &amp; E-MAIL</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 14px;">Registrazione domini, creazione posta elettronica personalizzata, posta elettronica certificata (PEC), hosting Windows/Linux.</span></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: justify; line-height: 1.1;"><img width="75" height="75" alt="" class="art-lightbox" src="images/template-content/Web-design.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 3px;">WEB DESIGN</span><br><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 14px;">Creazione e sviluppo di una grafica personalizzata per rispettare ed esaltare le esigenze di ciascun cliente.</span></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="4" category="2" title="New Page" alias="article-3" path="/servizi" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 5px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/NETWORKING%20SERVER.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 15px;">NETWORKING SERVER</span><br></p><p style="text-align: justify; line-height: 1.1; margin: -15px 115px auto auto;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Creazione di reti aziendali protette, installazione e configurazione di server per la gestione dei dati, con relativi permessi di accesso e possibilità di condivisione tra gli utenti, tutto creato ad-hoc per soddisfare le necessità di ogni singolo cliente.</span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 5px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/ANTIVIRUS.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 15px;">ANTIVIRUS</span><br></p><p style="text-align: justify; line-height: 1.1; margin: -15px 115px auto auto;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Rivenditori Silver F-Secure, prodotto che garantisce una protezione totale da virus, spyware, worm e siti internet pericolosi.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 5px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/SISTEMI%20BACKUP.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 15px;">SISTEMI DI BACKUP</span><br></p><p style="text-align: justify; line-height: 1.1; margin: -15px 115px auto auto;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">L'attività di backup è un'attività fondamentale nella gestione di un sistema informatico, poiché in caso di guasti, furti o altri eventi fortuiti consente di recuperare i dati e di ripristinarli in breve tempo riducendo al minimo il danno.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 5px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/BACKUP%20ONLINE.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 15px;">BACKUP ONLINE</span><br></p><p style="text-align: justify; line-height: 1.1; margin: -15px 115px auto auto;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Il backup online è un modo facile e veloce per eseguire il backup dei propri dati sul cloud. Sicuro e rapido permette di accedere da qualsiasi postazione web, senza il rischio di alcuna perdita di dati, lasciando la possibilità di condividere foto, video, musica e qualsiasi altro file con gli amici o attraverso i social network.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="5" category="2" title="New Page" alias="article-4" path="/grafica" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-right: 0px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="text-align: left; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/LOGHI.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 15px;">CREAZIONE DI LOGHI E</span><br><span style="color: rgb(93, 68, 43); font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 24px; font-weight: bold; line-height: 26px; margin-left: 15px;">GRAFICA COORDINATA</span></p><p style="text-align: justify; line-height: 1.1; margin: -15px auto auto 115px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Il logo è la maniera più immediata con cui la vostra attività o il vostro prodotto, vengono identificati sul mercato e dalla vostra clientela (potenziale e attuale). Noi vi offriamo un supporto completo che va da una prima fase di elaborazione alla definizione finale del logo ed alla creazione di un'immagine coordinata.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 0px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 10px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:65%" >
+        <p style="line-height: 1.1; text-align: left;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/BROCHURE.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"></p><p style="line-height: 1.1; text-align: left;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold;">BROCHURE E</span><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold;">DEPLIANT</span></p><p style="text-align: justify; line-height: 1.1; margin-top: -10px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Creazione di brochure e dépliant di vari formati e tipologie, per rendere più accattivante e dare maggior risalto alla propria immagine sul mercato.</span></p>
+    </div><div class="art-layout-cell" style="padding-left: 0px; width:35%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/RESTILING.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"></p><p style="text-align: right;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold;">RESTYLING</span></p><p style="text-align: justify; line-height: 1.1; margin: -10px auto auto 0px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Rielaborazione e rinnovo di loghi e immagini per un maggior impatto sul mercato in continua evoluzione.<br></span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 0px;margin-left: 50px;">
+<div class="art-content-layout" style="border-spacing: 50px 5px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p style="line-height: 1.1; text-align: right;"><img width="100" height="100" alt="" class="art-lightbox" src="images/template-content/CAMPAGNE%20PUBBLICITARIE.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold;">CAMPAGNE PUBBLICITARIE,</span><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold;">EVENTI E MARKETING</span></p><p style="line-height: 1.1; text-align: justify;"></p><p style="text-align: justify; line-height: 1.1; margin: -10px auto auto 115px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Creazione di immagini per eventi, elaborazioni grafiche per campagne aziendali, lancio di prodotti o di offerte. Possibilità di diffondere la propria immagine su spazi pubblicitari, o di effettuare forti campagne di marketing.</span></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="6" category="2" title="New Page" alias="article-5" path="/assistenza" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-bottom: 25px;margin-left: 50px;">
+<div class="art-content-layout" style=" border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div><div class="art-layout-cell" style="padding-bottom: 0px; width:50%" >
+        <p style="text-align: center; line-height: 1.1;"><img width="130" height="130" alt="" class="art-lightbox" src="images/template-content/RETI.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><br><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">RETI</span></p><p style="text-align: justify; line-height: 1;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 20px; margin-top: -10px; margin-right: auto; margin-bottom: -15px; margin-left: auto;">Creazione, sviluppo e consolidamento di reti aziendali per ogni necessità.</span></p><p><br></p>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 50px;margin-left: 50px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:40%" >
+        <p style="line-height: 1.1;"><img width="130" height="130" alt="" class="art-lightbox" src="images/template-content/HARDWARE.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">HARDWARE</span></p><p style="line-height: 1; margin-top: -15px; text-align: justify;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 20px; margin-top: -10px; margin-right: auto; margin-bottom: -15px; margin-left: auto;">Grazie alle capacità di personale qualificato sempre al passo con lo sviluppo di nuove tecnologie.</span></p>
+    </div><div class="art-layout-cell" style="width:19%" >
+        <p><br></p>
+    </div><div class="art-layout-cell" style="width:41%" >
+        <p style="text-align: right; line-height: 1.1;"><img width="130" height="130" alt="" class="art-lightbox" src="images/template-content/SOFTWARE.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 30px; font-weight: bold;">SOFTWARE</span></p><p style="line-height: 1; margin-top: -15px; text-align: justify;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 20px; margin-top: -10px; margin-right: auto; margin-bottom: -15px; margin-left: auto;">Adattamento, rielaborazione e assistenza sui software più utilizzati, grazie all'esperienza maturata fino ad ora.</span></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="7" category="2" title="New Page" alias="article-6" path="/innovazione" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-bottom: 50px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: right;"><img width="112" height="113" alt="" class="art-lightbox" src="images/template-content/NUOVE%20TECNOLOGIE.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 10px;">NUOVE TECNOLOGIE</span></p><p style="text-align: justify; line-height: 1.1; margin: -15px 122px auto 0px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Ricerca, sviluppo e vendita di hardware / software in grado di soddisfare qualsiasi necessità e sistema informatico aziendale.</span></p>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 50px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p><img width="112" height="113" alt="" class="art-lightbox" src="images/template-content/WI-FI.png" style="float: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-left: 10px;">WI-FI</span></p><p style="text-align: justify; line-height: 1.1; margin: -15px 0px auto 122px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Creazione di aree Wi-Fi con la possibilità di consentirne l'accesso wireless ai clienti e agli utenti di qualsiasi locale o luogo aperto al pubblico. In completa tranquillità da parte del gestore, grazie ai servizi di sicurezza garantiti dal nostro prodotto.</span></p>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: right;"><img width="112" height="113" alt="" class="art-lightbox" src="images/template-content/ELABORAZIONE%20DOCUMENTI.png" style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style="font-family: 'Myriad Pro', Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: rgb(93, 68, 43); font-size: 24px; font-weight: bold; margin-right: 10px;">ELABORAZIONE DOCUMENTI</span></p><p style="text-align: justify; line-height: 1.1; margin: -15px 122px auto 0px;"><span style="color: rgb(247, 147, 30); font-family: 'Myriad Pro Light', Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px;">Servizi di digitalizzazione e riorganizzazione di materiale cartaceo a seconda delle necessità del cliente.</span></p>
+    </div><div class="art-layout-cell" style="width:25%" >
+        <p><br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="8" category="2" title="New Page" alias="article-7" path="/clienti" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="9" category="2" title="New Page" alias="article-8" path="/dove-siamo" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Home" alias="ct-menu-item-1" path="/home" menutype="hmenu" type="single-article" article="1" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Home" alias="ct-menu-item-2" path="/home" menutype="vmenu" type="single-article" article="1" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Chi Siamo" alias="ct-menu-item-3" path="/chi-siamo" menutype="hmenu" type="single-article" article="2" showTitle="no" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Chi Siamo" alias="ct-menu-item-4" path="/chi-siamo" menutype="vmenu" type="single-article" article="2" showTitle="no" category="1"/>
+        <menuitem id="5" menu="ct-horizontal-menu" title="Siti Web" alias="ct-menu-item-5" path="/siti-web" menutype="hmenu" type="single-article" article="3" showTitle="no" category="1"/>
+        <menuitem id="6" menu="ct-vertical-menu" title="Siti Web" alias="ct-menu-item-6" path="/siti-web" menutype="vmenu" type="single-article" article="3" showTitle="no" category="1"/>
+        <menuitem id="7" menu="ct-horizontal-menu" title="Servizi" alias="ct-menu-item-7" path="/servizi" menutype="hmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="8" menu="ct-vertical-menu" title="Servizi" alias="ct-menu-item-8" path="/servizi" menutype="vmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="9" menu="ct-horizontal-menu" title="Grafica" alias="ct-menu-item-9" path="/grafica" menutype="hmenu" type="single-article" article="5" showTitle="no" category="1"/>
+        <menuitem id="10" menu="ct-vertical-menu" title="Grafica" alias="ct-menu-item-10" path="/grafica" menutype="vmenu" type="single-article" article="5" showTitle="no" category="1"/>
+        <menuitem id="11" menu="ct-horizontal-menu" title="Assistenza" alias="ct-menu-item-11" path="/assistenza" menutype="hmenu" type="single-article" article="6" showTitle="no" category="1"/>
+        <menuitem id="12" menu="ct-vertical-menu" title="Assistenza" alias="ct-menu-item-12" path="/assistenza" menutype="vmenu" type="single-article" article="6" showTitle="no" category="1"/>
+        <menuitem id="13" menu="ct-horizontal-menu" title="Innovazione" alias="ct-menu-item-13" path="/innovazione" menutype="hmenu" type="single-article" article="7" showTitle="no" category="1"/>
+        <menuitem id="14" menu="ct-vertical-menu" title="Innovazione" alias="ct-menu-item-14" path="/innovazione" menutype="vmenu" type="single-article" article="7" showTitle="no" category="1"/>
+        <menuitem id="15" menu="ct-horizontal-menu" title="Clienti" alias="ct-menu-item-15" path="/clienti" menutype="hmenu" type="single-article" article="8" showTitle="yes" category="1"/>
+        <menuitem id="16" menu="ct-vertical-menu" title="Clienti" alias="ct-menu-item-16" path="/clienti" menutype="vmenu" type="single-article" article="8" showTitle="yes" category="1"/>
+        <menuitem id="17" menu="ct-horizontal-menu" title="Dove Siamo" alias="ct-menu-item-17" path="/dove-siamo" menutype="hmenu" type="single-article" article="9" showTitle="yes" category="1"/>
+        <menuitem id="18" menu="ct-vertical-menu" title="Dove Siamo" alias="ct-menu-item-18" path="/dove-siamo" menutype="vmenu" type="single-article" article="9" showTitle="yes" category="1"/>
+        <menuitem id="19" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-19" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="20" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-20" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="position-1" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="New Block" showTitle="true" position="position-7" type="custom">
+            <![CDATA[<p style="text-align: center;"><img style="z-index: 1; margin-top: -46px;" width="201" height="668" alt="" class="art-lightbox" src="images/template-content/uomo-2_logo.png"><br></p>]]>
+        </module>
+        <module id="3" title="Footer" showTitle="false" position="position-27" type="custom">
+            <![CDATA[
+<p><span style="color: #F7931E;">Copyright © 2012 Teddynet Snc - Via Roma, 47 - 17031 Albenga (SV) - P. Iva: 01617610090 - Tutti i diritti riservati.</span><a href="#"></a></p>
+]]>
+        </module>
+    </modules>
+    <parameters/>
+</data>

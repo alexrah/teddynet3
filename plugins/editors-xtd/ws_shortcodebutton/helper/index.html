@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title>Welcome to Foundation</title>
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.min.css">
+  <link rel="stylesheet" href="stylesheets/app.css">
+
+  <script src="javascripts/modernizr.foundation.js"></script>
+</head>
+<body>
+
+  <div class="row">
+    <div class="six columns">
+      <h2>Shortcodes</h2>
+    </div>
+    <div class="six columns">
+      <h5 class="text-right" style="margin-top:35px;"><span class="has-tip tip-bottom" title="If you have problems using the Shortcodes, please deactivate your Editor in your general Settings BEFORE using the Shortcodes! Have a look for not needed < p > and delete them">Problems using Shortcodes?</span></h5>
+    </div>
+    <hr />
+  </div>
+
+  <div class="row">
+    <div class="three columns">
+    	<dl class="vertical tabs">
+	    	<dd class="active"><a href="#vertical1">Gridsystem</a></dd>
+	    	<dd><a href="#vertical2">Messages & Boxes</a></dd>
+	    	<dd><a href="#vertical3">Tooltips</a></dd>
+	    	<dd><a href="#vertical4">Buttons</a></dd>
+	    	<dd><a href="#vertical5">Reveal Lightbox</a></dd>
+	    	<dd><a href="#vertical6">Titan Lightbox</a></dd>
+	    	<dd><a href="#vertical7">Misc</a></dd>
+	    	<dd><a href="#vertical8">Icons</a></dd>
+	    	<dd><a href="#vertical9">Lists</a></dd>
+	    	<dd><a href="#vertical10">Videos & Frames</a></dd>
+	    	<dd><a href="#vertical11">Toggle</a></dd>
+	    	<dd><a href="#vertical12">Modules</a></dd>
+	    </dl>
+    </div>
+
+    <div class="nine columns">
+      <ul class="tabs-content">
+	      
+	      <!-- Tab Gridsystem -->
+	      <li class="active" id="vertical1Tab">
+	      	<img src="images/gridsystem.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce three Columns with the same width</div>
+				  <textarea onclick="this.focus();this.select()" style="height:120px;">{row}
+{col4}Your Content here{/col}
+{col4}Your Content here{/col}
+{col4}Your Content here{/col}
+{/row}</textarea>
+				  <div class="pt">This Shortcode will produce two Columns with various widths</div>
+					<textarea onclick="this.focus();this.select()" style="height:100px;">{row}
+{col5}Your Content here{/col}
+{col7}Your Content here{/col}
+{/row}</textarea>
+					<div class="bt">Please set the complete Number of Columns always full to a 12 Columns System, for example: when you have {col4} and {col3} your last columns will be a {col5}. Simply copy one of the following Shortcode examples to your Content or feel free to modify it.
+		      The Shortcode for the Columns always starts with a {row} and ends with a {/row}. Between there are the Columns, available are {col1} till {col12}. Don't forget to close the Columns with a {/col}. Below you'll find two examples:
+		      </div>   		
+	      </li>
+
+	      <!-- Tabs -->
+	      <li id="vertical2Tab">
+	      	<img src="images/messages.jpg" alt="" />
+		      <div class="pt">System Message with a cross to close it!</div>
+		      <textarea onclick="this.focus();this.select()">{message | secondary}Your Text goes here{/message}</textarea>
+		      <div class="bt">Options: {message | <span class="has-tip tip-centered-bottom noradius" title="templatecolor<br />success<br />alert<br />secondary">Color</span>}Your Text goes here{/message}</div>
+		      
+		      <img src="images/boxes.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a nice Container for your Content</div>
+		      <textarea onclick="this.focus();this.select()">{panel-white}Your Content goes here{/message}</textarea>
+		      
+		      <div class="pt">How to use?</div>
+		      <textarea onclick="this.focus();this.select()">{panel-templatecolor}Your Content goes here{/message}</textarea>
+	      </li>
+	      
+	      <!-- Tooltip -->
+	      <li id="vertical3Tab">
+	      	<img src="images/tooltip.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a simple Tooltip</div>
+		      <textarea onclick="this.focus();this.select()">{tooltip | # | I'm a Tooltip | top | Tooltip}</textarea>
+		      <div class="bt">Options: {tooltip | <span class="has-tip tip-centered-bottom noradius" data-width="250" title="Place your Link here, if you don't want to Link and use only a tooltip simply use a #">#</span> | Place here Content of the Tooltip | <span class="has-tip tip-centered-bottom noradius" data-width="250" title="left<br />right<br />top<br />bottom<br />auto">Position</span> | Word for Tooltip}</div>
+	      </li>
+	      
+	      <!-- Buttons -->
+	      <li id="vertical4Tab">
+	      	<img src="images/buttons.jpg" alt="" />
+	      	<div class="pt">This Shortcode will produce a simple Button</div>
+		      <textarea onclick="this.focus();this.select()">{button | small secondary radius | http://www.google.de | Jump to Google}</textarea>     
+		      <div class="bt">Options: {button | <span class="has-tip tip-centered-bottom noradius" title="tiny<br />small<br />medium<br />large">Size</span> <span class="has-tip tip-centered-bottom noradius" title="templatecolor<br />secondary<br />success<br />alert">Color</span> <span class="has-tip tip-centered-bottom noradius" title="square<br />round<br />radius<br />full-width">Style</span> | Your Link goes here | Name your Button here}</div>
+		      	      
+		      <div class="pt">Button with Icon</div>
+		      <textarea onclick="this.focus();this.select()">{button-icon | small secondary radius | http://www.google.de | Jump to Google | icon-name}</textarea>
+		      
+		      <div class="pt">Button which opens Link in new Window (target="_blank")</div>
+		      <textarea onclick="this.focus();this.select()">{button-blank | small secondary radius | http://www.google.de | Jump to Google}</textarea>
+		      
+		      <div class="pt">Button with HTML Attributes</div>
+		      <textarea onclick="this.focus();this.select()">{button-data | small secondary radius | http://www.google.de | Jump to Google | data-attributes comes here}</textarea>
+		      
+		      <div class="pt">Button with Tooltip:</div>
+		      <textarea onclick="this.focus();this.select()">{button-data | small secondary radius has-tipsy-top | # | Button with Tooltip | title="Content for the Tooltip here"}</textarea>
+		      
+		      <div class="pt">Button with Reveal Lightbox:</div>
+		      <textarea onclick="this.focus();this.select()">{button-data | small secondary radius | # | Button with Reveal Lightbox | data-reveal-id="name-of-the-moduleposition"}</textarea>
+		      
+		      <div class="pt">Button with Titan Lightbox:</div>
+		      <textarea onclick="this.focus();this.select()">{button-data | small secondary radius titan-lb | link to image or video here | Button with Reveal Lightbox | title="Title for the Lightbox here"}</textarea>
+	      </li>
+
+	      <!-- Reveal Lightbox -->
+	      <li id="vertical5Tab">
+	      	<img src="images/reveal.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a Reveal Lightbox (for Inline content)</div>
+		      
+		      <div class="pt">Demo for Button:</div> 
+		      <textarea onclick="this.focus();this.select()">{button-data | medium templatecolor | # | Text for the Button | data-reveal-id="name-of-the-module"}</textarea>
+		      
+		      <div class="pt">Demo for Link:</div>
+		      <textarea onclick="this.focus();this.select()">{link-data | reveal | # | Text for the Link | data-reveal-id="name-of-the-module"}</textarea>
+		      
+		      <div class="pt">Demo for Image:</div>
+		      <textarea onclick="this.focus();this.select()">{image-data | reveal | # | /path-to-image.jpg | data-reveal-id="name-of-the-module"}</textarea>
+	      </li>   
+
+	      <!-- Titan Lightbox -->
+	      <li id="vertical6Tab">
+	      	<img src="images/titan.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a single Titan Lightbox (for Images, Videos, Maps and more)</div>
+		      
+		      <div class="pt">Demo for Button:</div>
+		      <textarea onclick="this.focus();this.select()">{button-data | titan-lb | path to your image/video/iFrame/Map | Text for the Button | title="This is the Title of the Lightbox"}</textarea>
+		      
+		      <div class="pt">Demo for Link:</div>
+		      <textarea onclick="this.focus();this.select()">{link-data | titan-lb | path to your image/video/iFrame/Map | Text for the Link | title="This is the Title of the Lightbox"}</textarea>
+		      
+		      <div class="pt">Demo for Image:</div>
+		      <textarea onclick="this.focus();this.select()">{image-data | titan-lb | path to your image/video/iFrame/Map | /path-to-image.jpg | title="This is the Title of the Lightbox"}</textarea>
+		      
+		      <img src="images/gallery.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a Titan Lightbox Gallery</div>
+		      <textarea onclick="this.focus();this.select()">{wstitangallery src=[/images/] width=[100] title=[Gallery Title] thumb=[default]}</textarea>
+		      
+		      <div class="pt">All available Options</div>
+		      <textarea onclick="this.focus();this.select()">{wstitangallery src=[/images/] width=[100] height=[100] title=[Gallery Title] count=[0] thumb=[default] order=[asc] prefix=[thumb_] thumb_cache_time=[1440] thumb_cache_dir=[thumbs]}</textarea>
+		      
+		      <div class="bt">Options: {wstitangallery src=[<span class="has-tip tip-centered-bottom noradius" title="Path to your Image folder">/images/</span>] width=[<span class="has-tip tip-centered-bottom noradius" title="Width of the Thumbnails">100</span>] height=[<span class="has-tip tip-centered-bottom noradius" title="Height of the Thumbnails">100</span>] <span class="has-tip tip-centered-bottom noradius" title="Optional Title for the whole Gallery">title=[Gallery Title]</span> <span class="has-tip tip-centered-bottom noradius" title="Optional Count for Images">count=[0]</span> thumb=[<span class="has-tip tip-centered-bottom noradius" title="default<br />cut<br />plain<br />rounded">Style</span>] <span class="has-tip tip-centered-bottom noradius" title="Optional sorting for this Gallery<br />asc<br />desc<br />random">order=[asc]</span> <span class="has-tip tip-centered-bottom noradius" title="Optional change for the Image Prefix">prefix=[thumb_]</span> <span class="has-tip tip-centered-bottom noradius" title="Optional change for the Image Thumb Cache Time">thumb_cache_time=[1440]</span> <span class="has-tip tip-centered-bottom noradius" title="Optional change for the Image Thumb Cache Directory">thumb_cache_dir=[thumbs]</span>}</div>
+		      
+	      </li>   
+
+	      <!-- Misc -->
+	      <li id="vertical7Tab">
+	      	<img src="images/blockquote.jpg" alt="" />
+		      <div class="pt">Blockquote without Name</div>
+		      <textarea onclick="this.focus();this.select()">{blockquote}Your Content goes here{/blockquote}</textarea>
+		      
+		      <div class="pt">Blockquote with Name</div>
+		      <textarea onclick="this.focus();this.select()">{blockquote}Your Content goes here{/blockquote-name | Name here}</textarea>
+		      
+		      <img src="images/testimonial.jpg" alt="" />
+		      <div class="pt">Testimonial</div>
+		      <textarea onclick="this.focus();this.select()">{testimonial}Your Content goes here{testimonial-name | Name or Link here}</textarea>
+		      
+		      <img src="images/labels.jpg" alt="" />
+		      <div class="pt">Inline Content Labels</div>
+		      <textarea onclick="this.focus();this.select()">{label | radius | success | Awesome}</textarea>
+		      <div class="bt">Options: {label | <span class="has-tip tip-centered-bottom noradius" title="radius<br />round<br />square">Style</span> | <span class="has-tip tip-centered-bottom noradius" title="success<br />alert<br />secondary<br />templatecolor">Color</span> | Your Text goes here}</div>
+		      
+		      <div class="pt">Horizontal Lines - Demo</div>
+		      <textarea onclick="this.focus();this.select()">{liner | 21px 0 22px 0}</textarea>
+		      
+		      <div class="pt">Horizontal Lines - Demo</div>
+		      <textarea onclick="this.focus();this.select()">{line}</textarea>
+		      
+		      <div class="pt">Horizontal Lines - How to use?</div>
+		      <textarea onclick="this.focus();this.select()">{liner | Enter margin pixels here (top, right, bottom, left)}</textarea>
+		      
+		      <div class="pt">Space - Demo</div>
+		      <textarea onclick="this.focus();this.select()">{spacer | 120px}</textarea>
+		      
+		      <div class="pt">Space - How to use?</div>
+		      <textarea onclick="this.focus();this.select()">{spacer | Enter the height of the whitespace in pixels}</textarea>
+	      </li>
+
+	      <!-- Icon -->
+	      <li id="vertical8Tab">
+	      	<img src="images/icons.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a Icon</div>
+		      <textarea onclick="this.focus();this.select()">{icon | icon-heart}</textarea>
+		      
+		      <div class="pt">Icon - How to use?</div>
+		      <textarea onclick="this.focus();this.select()">{icon | icon-name (use templatecolor for a coloured Icon)}</textarea>
+	      </li>      
+	      
+	      <!-- Lists -->
+	      <li id="vertical9Tab">
+	      	<img src="images/lists.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a simple List</div>
+		      <textarea onclick="this.focus();this.select()" style="height:120px;">{list | Type of the Icon (disc, circle, square, type1, type2, type3)}
+{listing}Type in some text to display in this list{/listing}
+{listing}Type in some text to display in this list{/listing}
+{listing}Type in some text to display in this list{/listing}
+{/list}</textarea>
+	      
+		      <div class="pt">Example for List Style disc, circle, square, type1 or type2 (predefined icons)</div>
+		      <textarea onclick="this.focus();this.select()" style="height:120px;">{list | type1}
+{listing}Type in some text to display in this list{/listing}
+{listing}Type in some text to display in this list{/listing}
+{listing}Type in some text to display in this list{/listing}
+{/list}</textarea>
+	      
+		      <div class="pt">Example for List Style type3 (custom icons, many available)</div>
+		      <textarea onclick="this.focus();this.select()" style="height:120px;">{list | type3}
+{listing}{icon | icon-ok}Type in some text to display in this list{/listing}
+{listing}{icon | icon-ok}Type in some text to display in this list{/listing}
+{listing}{icon | icon-ok}Type in some text to display in this list{/listing}
+{/list}</textarea>  
+	      </li>  
+
+	      <!-- Videos -->
+	      <li id="vertical10Tab">
+	      	<img src="images/videos.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a Vimeo Video</div>     
+		      <textarea onclick="this.focus();this.select()">{vimeo | 24195442}</textarea>
+		      <div class="bt">Example: http://vimeo.com/24195442 means your ID is 24195442</div>
+		      
+		      <div class="pt">This Shortcode will produce a YouTube Video</div>
+		      <textarea onclick="this.focus();this.select()">{youtube | Yq_6kEyIAcM}</textarea>
+		      <div class="bt">Example: http://www.youtube.com/watch?v=Yq_6kEyIAcM means your ID is Yq_6kEyIAcM</div>
+		      
+		      <div class="pt">This Shortcode will produce a YouTube Widescreen Video</div>
+		      <textarea onclick="this.focus();this.select()">{youtube-wide | N966cATFWjI}</textarea>
+		      <div class="bt">Example: http://www.youtube.com/watch?v=N966cATFWjI means your ID is N966cATFWjI</div>
+		      
+		      <div class="pt">This Shortcode will produce a Vimeo Video</div>
+		      <textarea onclick="this.focus();this.select()">{iframe}Your iFrame embedding Code here{/iframe}</textarea>
+		      <div class="bt"><b>Attention:</b> for including regular iFrames or Flash it's recommend to turn your WYSIWIG Editor, like TinyMCE, to off!</div>
+	      </li>
+
+	      <!-- Toggle -->
+	      <li id="vertical11Tab">
+	      	<img src="images/toggle.jpg" alt="" />
+		      <div class="pt">This Shortcode will produce a Icon</div>
+		      <textarea onclick="this.focus();this.select()">{toggle | Title of the Tab}Your Content goes here{/toggle}</textarea>
+	      </li>
+	      
+	      <!-- Modules in Content -->
+	      <li id="vertical12Tab">
+		      <div class="pt">This Shortcode will load a Module inside an Article</div>
+		      <textarea onclick="this.focus();this.select()">{loadposition module-position-here}</textarea>
+		      <div class="bt"><b>Attention:</b> you can every Module release under a fictive Moduleposition, simply enter a demo value, please don't forget to release this Module on the choosen Page, alternative release it on 'all pages'</div>
+		      
+		      <div class="pt">This Shortcode will load a Module inside an Module</div>
+		      <textarea onclick="this.focus();this.select()">{module-in-module | module-position-here}</textarea>
+		      <div class="bt"><b>Attention:</b> you can every Module release under a fictive Moduleposition, simply enter a demo value, please don't forget to release this Module on the choosen Page, alternative release it on 'all pages'</div>
+		      
+	      </li> 
+
+       
+	      
+	     </ul>
+    </div>
+  </div>
+
+  
+  
+
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="javascripts/foundation.min.js"></script>
+  
+  <!-- Initialize JS Plugins -->
+  <script src="javascripts/app.js"></script>
+
+  
+</body>
+</html>

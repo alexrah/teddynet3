@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5.6" type="plugin" group="system" method="upgrade">
+	<name>WS Shortcode System</name>
+	<author>WS-Theme.com</author>
+	<creationDate>04/2013</creationDate>
+	<copyright>Copyright (C) 2012. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>info@ws-theme.com</authorEmail>
+	<authorUrl>www.ws-theme.com</authorUrl>
+	<version>1.0.0</version>
+	<description>With the WS-Shortcode plugin you can easily add many functions and styles to your Joomla Website only with a short code. Works best in Combination with our Editor Button</description>
+	<files>
+		<filename plugin="ws_shortsystem">ws_shortsystem.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
